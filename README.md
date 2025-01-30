@@ -26,10 +26,10 @@
   ![Image](https://github.com/user-attachments/assets/6db34f4a-e6a3-4846-b88e-9b9e70fe0b02)
   ![Image](https://github.com/user-attachments/assets/4e8ceac7-2046-444c-86a1-547bc53de4d4)
 
-- <b>약복용 문자 알림</b> <br>
+- <b>약 복용 문자 알림</b> <br>
   관찰 일기를 바탕으로 환자가 의사에게 비대면 진료를 받을 수 있는 서비스도 제공할 예정입니다.
-  <img width="388" alt="Image" src="https://github.com/user-attachments/assets/d3414de2-6a7a-4671-ab81-627b4a42490e" />
-  <img width="388" alt="Image" src="https://github.com/user-attachments/assets/cecb7dc3-4005-4995-879b-94871b95097c" />
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/d3414de2-6a7a-4671-ab81-627b4a42490e" />
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/cecb7dc3-4005-4995-879b-94871b95097c" />
 
 - <b>마음 일기</b> <br>
   가족보호자가 치매환자를 간병하며 겪을 감정적 어려움을 고려하여, 보호자의 정서를 안정시킬 수 있도록 하루를 되돌아보고 감정을 기록하는 기능입니다.
