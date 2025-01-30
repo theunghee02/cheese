@@ -27,7 +27,7 @@
   ![Image](https://github.com/user-attachments/assets/4e8ceac7-2046-444c-86a1-547bc53de4d4)
 
 - <b>약 복용 문자 알림</b> <br>
-  관찰 일기를 바탕으로 환자가 의사에게 비대면 진료를 받을 수 있는 서비스도 제공할 예정입니다.
+  관찰 일기를 바탕으로 환자가 의사에게 비대면 진료를 받을 수 있는 서비스도 제공할 예정입니다. <br>
   <img width="200" alt="Image" src="https://github.com/user-attachments/assets/d3414de2-6a7a-4671-ab81-627b4a42490e" />
   <img width="200" alt="Image" src="https://github.com/user-attachments/assets/cecb7dc3-4005-4995-879b-94871b95097c" />
 
